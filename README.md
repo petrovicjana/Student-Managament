@@ -39,6 +39,7 @@ Build the Project:
 1. Run the Program:
 
 2. After building, run the program by clicking Debug > Start Without Debugging or press Ctrl + F5.
+   
 Follow On-screen Instructions:
 
 Choose the desired operation (add student, update student, etc.).
@@ -47,7 +48,7 @@ Enter the required student information (name, roll number, age, etc.).
 
 Follow the prompts to perform additional operations or exit the program.
 
-Example Commands
+### Example Commands
 
 Add Student: Enter the student's name, roll number, age, and grade.
 
